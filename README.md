@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  
+# Hello, I am [Abhishek Tiwari]. Let's Connect! 😊
 
-<!--
-**abhi-iitk26/abhi-iitk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+A passionate **[Data & AI enthusiast eager to build impactful, data-driven solutions.]**
+ 
+- 🎓 Masters Student at **[IME, IIT Kanpur]**
+- 🌱 Currently learning **[ Data Science, Machine Learning, Generative AI & Agentic AI]**
+- 💡 Interested in **[uncover hidden patterns in data and convert insights into impactful, real-world solutions.]**
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**
+- Python
+- SQL
+
+**Tools:**
+- Pandas
+- Numpy
+- Matplotlib
+- NLTK
+- OpenCV
+- Langsmith
+- Scikit Learn
+- Keras
+- Tensorflow
+- Langchain
+- CrewAI
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/abhishek-tiwari-43403021b/]
+- 📧 Email: abhitiwari24@iitk.ac.in
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories below. ⭐
+
+</div>
