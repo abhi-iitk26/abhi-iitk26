@@ -1,7 +1,5 @@
 ![Header](banner.png)
 <div align="center">
-  
-# Hello, I am Abhishek Tiwari. Let's Connect! 😊
 
 </div>
 
