@@ -92,7 +92,7 @@ A passionate **Data & AI enthusiast eager to build impactful, data-driven soluti
 <br><b>CrewAI</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/langchain-ai/langsmith/main/docs/static/img/logo-dark.svg" width="80" height="80"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="80" height="80"/>
 <br><b>LangSmith</b>
 </td>
 <td align="center" width="120">
@@ -111,7 +111,7 @@ A passionate **Data & AI enthusiast eager to build impactful, data-driven soluti
 <br><b>Streamlit</b>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="80" height="80"/>
+<img src="https://cdn.simpleicons.org/mlflow/017CEE" width="80" height="80"/>
 <br><b>MLflow</b>
 </td>
 <td align="center" width="120">
