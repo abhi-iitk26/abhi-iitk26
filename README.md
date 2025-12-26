@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello, I am [Abhishek Tiwari]. Let's Connect! 😊
+# Hello, I am Abhishek Tiwari. Let's Connect! 😊
 
 </div>
 
@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-A passionate **[Data & AI enthusiast eager to build impactful, data-driven solutions.]**
+A passionate **Data & AI enthusiast eager to build impactful, data-driven solutions.**
  
-- 🎓 Masters Student at **[IME, IIT Kanpur]**
-- 🌱 Currently learning **[ Data Science, Machine Learning, Generative AI & Agentic AI]**
-- 💡 Interested in **[uncover hidden patterns in data and convert insights into impactful, real-world solutions.]**
+- 🎓 Masters Student at **IME, IIT Kanpur**
+- 🌱 Currently learning **Data Science, Machine Learning, Generative AI & Agentic AI**
+- 💡 Interested in **uncover hidden patterns in data and convert insights into impactful, real-world solutions.**
 
 ---
 
@@ -39,7 +39,7 @@ A passionate **[Data & AI enthusiast eager to build impactful, data-driven solut
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/abhishek-tiwari-43403021b/]
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-tiwari-43403021b/
 - 📧 Email: abhitiwari24@iitk.ac.in
 
 ---
