@@ -9,7 +9,7 @@
 
 A passionate **Data & AI enthusiast eager to build impactful, data-driven solutions.**
  
-- 🎓 Masters Student at **IME, IIT Kanpur**
+- 🎓 Master's Student at **IME, IIT Kanpur**
 - 🌱 Currently learning **Data Science, Machine Learning, Generative AI & Agentic AI**
 - 💡 Interested in **uncover hidden patterns in data and convert insights into impactful, real-world solutions.**
 
