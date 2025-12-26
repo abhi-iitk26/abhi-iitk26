@@ -119,10 +119,10 @@ I’m a **Data & AI enthusiast** who enjoys turning **raw data into intelligent 
 
 ## 🧠 What I’m Currently Working On
 
-🔬 Advanced RAG architectures (evaluation, chunking strategies, hybrid search)  
-🤖 Agentic AI systems using CrewAI & LangGraph-style orchestration  
-📊 ML systems with reproducibility & tracking (MLflow + Docker)  
-🚀 Actively looking for opportunities as a Data Scientist / ML Engineer / GenAI Engineer
+- Advanced RAG architectures (evaluation, chunking strategies, hybrid search)  
+- Agentic AI systems using CrewAI & LangGraph-style orchestration  
+- ML systems with reproducibility & tracking (MLflow + Docker)  
+- Actively looking for opportunities as a Data Scientist / ML Engineer / GenAI Engineer
 
 ---
 
