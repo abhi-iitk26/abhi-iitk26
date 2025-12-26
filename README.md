@@ -15,7 +15,7 @@ Data Science • Machine Learning • Generative AI • RAG Systems
 I’m a **Data & AI enthusiast** who enjoys turning **raw data into intelligent systems** and  
 **business problems into deployable ML & GenAI solutions**.
 
-- 🎓 **M.Tech (Management Sciences)** at **IME, IIT Kanpur**
+- 🎓 **M.Tech** at **IME, IIT Kanpur**
 - 🧠 Strong foundation in **Data Science, ML, Deep Learning & GenAI**
 - 🤖 Hands-on experience with **RAG systems, multi-agent workflows & MLOps**
 - 🎯 Passionate about **real-world impact, scalability, and clean engineering**
@@ -111,8 +111,8 @@ I’m a **Data & AI enthusiast** who enjoys turning **raw data into intelligent 
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhi-iitk26&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://streak-stats.demolab.com?user=abhi-iitk26&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi-iitk26&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=abhi-iitk26&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 ---
