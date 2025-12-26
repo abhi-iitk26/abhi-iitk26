@@ -1,4 +1,4 @@
-![Header](banner.png)
+
 <div align="center">
 
 </div>
