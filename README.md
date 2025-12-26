@@ -1,7 +1,7 @@
 ![Header](banner.png)
 
 <h4 align="center">
-Data Science • Machine Learning • Generative AI • RAG Systems
+Data Science • Machine Learning • Generative AI • Agentic AI
 </h4>
 
 <p align="center">
