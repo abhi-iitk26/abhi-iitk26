@@ -16,23 +16,104 @@ A passionate **Data & AI enthusiast eager to build impactful, data-driven soluti
 ---
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangSmith-00B4D8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" />
-</p>
+<div align="center">
 
-**Specializations:** Regression Analysis • Predictive Modeling • Time Series Forecasting • Deep Learning (CNN, RNN, LSTM, Transformers) • Transfer Learning
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65" height="65" alt="SQL" />
+<br>SQL
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="65" height="65" alt="Matplotlib" />
+<br>Matplotlib
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="65" height="65" alt="Scikit-Learn" />
+<br>Scikit-Learn
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="65" height="65" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="65" height="65" alt="Keras" />
+<br>Keras
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="65" height="65" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV" />
+<br>OpenCV
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="65" height="65" alt="LangChain" />
+<br>LangChain
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/langsmith.svg" width="65" height="65" alt="LangSmith" />
+<br>LangSmith
+</td>
+<td align="center" width="96">
+<img src="https://avatars.githubusercontent.com/u/162174624?s=200&v=4" width="65" height="65" alt="CrewAI" />
+<br>CrewAI
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="65" height="65" alt="NLTK" />
+<br>NLTK
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65" alt="Git" />
+<br>Git
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter" />
+<br>Jupyter
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65" height="65" alt="Seaborn" />
+<br>Seaborn
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="65" height="65" alt="Streamlit" />
+<br>Streamlit
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ## 📫 Connect with Me
 
