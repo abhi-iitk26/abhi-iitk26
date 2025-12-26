@@ -18,33 +18,71 @@ A passionate **Data & AI enthusiast eager to build impactful, data-driven soluti
 
 <div align="center">
 
-### Languages & Core Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Pandas+%7C+NumPy;TensorFlow+%7C+Keras+%7C+PyTorch;LangChain+%7C+CrewAI+%7C+LangSmith;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP)](https://git.io/typing-svg)
 
-### Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
-</p>
+</div>
 
-### AI & LLM Tools
-<p>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="48" height="48" alt="LangChain" />
-<img src="https://avatars.githubusercontent.com/u/162174624?s=48&v=4" width="48" height="48" alt="CrewAI" />
-<img src="https://cdn.worldvectorlogo.com/logos/langsmith.svg" width="48" height="48" alt="LangSmith" />
-</p>
+<div align="center">
 
-### Specializations
-<p>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Time%20Series-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+<br><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="80" height="80" />
+<br><b>SQL</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas" />
+<br><b>Pandas</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80" height="80" alt="NumPy" />
+<br><b>NumPy</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="80" height="80" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="80" height="80" alt="Keras" />
+<br><b>Keras</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" height="80" alt="PyTorch" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="80" height="80" alt="Scikit-Learn" />
+<br><b>Scikit-Learn</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" height="80" alt="OpenCV" />
+<br><b>OpenCV</b>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="80" height="80" alt="LangChain" />
+<br><b>LangChain</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="80" height="80" alt="Jupyter" />
+<br><b>Jupyter</b>
+</td>
+</tr>
+
+</table>
 
 </div>
 
