@@ -18,73 +18,33 @@ A passionate **Data & AI enthusiast eager to build impactful, data-driven soluti
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="120">
-<a href="https://www.python.org/">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
-</a>
-<br><b>Python</b>
-</td>
-<td align="center" width="120">
-<a href="https://www.mysql.com/">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
-</a>
-<br><b>SQL</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas" style="animation: bounce 2s infinite;" />
-<br><b>Pandas</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80" height="80" alt="NumPy" />
-<br><b>NumPy</b>
-</td>
-</tr>
+### Languages & Core Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+</p>
 
-<tr>
-<td align="center" width="120">
-<a href="https://www.tensorflow.org/">
-<img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="80" height="80" />
-</a>
-<br><b>TensorFlow</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="80" height="80" alt="Keras" />
-<br><b>Keras</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" height="80" alt="PyTorch" />
-<br><b>PyTorch</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="80" height="80" alt="Scikit-Learn" />
-<br><b>Scikit-Learn</b>
-</td>
-</tr>
+### Data Science & ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+</p>
 
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" height="80" alt="OpenCV" />
-<br><b>OpenCV</b>
-</td>
-<td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="80" height="80" alt="LangChain" />
-<br><b>LangChain</b>
-</td>
-<td align="center" width="120">
-<a href="https://github.com/">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-</a>
-<br><b>GitHub</b>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="80" height="80" alt="Jupyter" />
-<br><b>Jupyter</b>
-</td>
-</tr>
+### AI & LLM Tools
+<p>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="48" height="48" alt="LangChain" />
+<img src="https://avatars.githubusercontent.com/u/162174624?s=48&v=4" width="48" height="48" alt="CrewAI" />
+<img src="https://cdn.worldvectorlogo.com/logos/langsmith.svg" width="48" height="48" alt="LangSmith" />
+</p>
 
-</table>
+### Specializations
+<p>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Time%20Series-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
 
 </div>
 
